@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-  ～  "".join(row)) までを張り付ける。(^o^)。
-
-
 # -*- coding: utf-8 -*-
 
 import csv   #csvモジュールをインポートする
 import os    #osモジュールをインポートする
-import shutil shutilモジュールをインポートする。
+import shutil #shutilモジュールをインポートする。
 
 f = open('C:\\Users\\kaman_000\\Desktop\\list.csv','r', encoding='utf-8') #★★CSVファイルの置き場
 
